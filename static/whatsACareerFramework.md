@@ -21,7 +21,7 @@ This framework is broken down into two components:
 How to navigate this framework
 ------------------------------
 
-Dropbox measures the success of its engineers largely on business impact. Anchor your work first and foremost on creating long-term impact. Since impact can be a bit vague, read [What is Impact?](what_is_impact.html)
+Joe & the Juice measures the success of its engineers largely on business impact. Anchor your work first and foremost on creating long-term impact. Since impact can be a bit vague, read [What is Impact?](what_is_impact.html)
 
 Next, ground yourself in the expectations for your level and team. For each level, you’ll find a one-line summary description and the role’s scope, collaborative reach, and levers for impact.
 

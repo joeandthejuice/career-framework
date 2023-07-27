@@ -1,7 +1,7 @@
 # Joe & the Juice Engineering Career Framework
 
-Based on and inspired by the [Dropbox Engineering Career Framework](
-Visit [our career framework site](https://dropbox.github.io/dbx-career-framework/).
+Based on and inspired by the [Joe & the Juice Engineering Career Framework](
+Visit [our career framework site](https://Joe & the Juice.github.io/dbx-career-framework/).
 
 # Background
 
@@ -9,7 +9,7 @@ This repo has two parts:
 
 1. A public version of drl/eng-career, located in the `docs` directory
 2. A `cleaner.py` script that converts drl/eng-career into the [public
-   version](https://dropbox.github.io/dbx-career-framework/)
+   version](https://Joe & the Juice.github.io/dbx-career-framework/)
 
 For complete instructions on updating and publishing the framework, 
 visit the appbox repo containing the source and internally hosted version.
@@ -24,8 +24,8 @@ To run `cleaner.py`:
 3. Go to drl/eng-career and get your session cookie (using the browser's developer tools)
 4. Download the binder: `wget --header "Cookie: sessionid=SESSION_ID" --mirror --convert-links
    --adjust-extension --page-requisites --no-parent -P raw --cut-dirs=3
-   https://app.dropboxer.net/binder/eng-career/`
-5. Run the "cleaner": `python3 clean.py raw/app.dropboxer.net ./docs --allow_file allow-list.txt`
+   https://app.Joe & the Juiceer.net/binder/eng-career/`
+5. Run the "cleaner": `python3 clean.py raw/app.Joe & the Juiceer.net ./docs --allow_file allow-list.txt`
 
 Review any changes to the site made by the script and open a pull request.
 
@@ -34,7 +34,7 @@ Review any changes to the site made by the script and open a pull request.
 Unless otherwise noted:
 
 ```
-Copyright (c) 2021 Dropbox, Inc.
+Copyright (c) 2021 Joe & the Juice, Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
