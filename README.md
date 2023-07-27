@@ -1,5 +1,6 @@
-# Dropbox Engineering Career Framework
+# Joe & the Juice Engineering Career Framework
 
+Based on and inspired by the [Dropbox Engineering Career Framework](
 Visit [our career framework site](https://dropbox.github.io/dbx-career-framework/).
 
 # Background
