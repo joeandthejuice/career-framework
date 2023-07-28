@@ -26,9 +26,10 @@ Core Responsibilities
 
 **Impact**
 
-*   I have a bias for actions, act with urgency and deliver high-quality work that will add the most value for our business, cross-functional stakeholders, and customers
+*   I have a bias for actions, act with urgency and deliver high-quality work that will add the most value
 *   I work with my manager to direct my focus so my work advances my team's goals
 *   I prioritize the right things and don't overcomplicate my work. When necessary, I propose appropriate scope adjustments.
+*   I help my team get work done
 *   I effectively participate in the core processes of my team, including recommending and implementing process improvements
 
 **Ownership**
@@ -100,6 +101,8 @@ Core Responsibilities
 *   I write and speak with clarity and focus
 *   I listen to understand others and ask clarifying questions
 *   I proactively share relevant information on my project including difficult task-level trade-offs that impact the product to my manager and team (including product/business partners)
+*   I stay calm during difficult conversations and Im constructive and let the best argument win
+*   I try to remove personal interests from my decisions and stay objective
 
 🦉 Craft
 --------
@@ -112,6 +115,7 @@ Core Responsibilities
 *   I’m able to read and navigate through a large code base and effectively debug others’ code
 *   I'm able to balance the tasks at hand with the needs of the business
 *   I address code tasks with both high throughput and appropriately high quality for the stage of project I am working on
+*   I focus on quality and understand the importance of testing and code reviews
 
 **Software Design**
 

@@ -15,18 +15,3 @@ The focus in the career framework has shifted towards driving impact in order to
 
 The best way to understand how to move to the next level is to have transparent conversations with your manager about your goals and gaps. The framework is not an exhaustive list of behaviors, as every individual, team, and project is different. That said, new content has been added with the [Promotion Guidelines](promotion_guidelines.html) and [Promotion Principles](promotion_principles.html) to provide additional clarity for you.
 
-**It’s currently a lot easier to get promoted if you’re in the Platform org.**
-
-Promotion budgets are evenly distributed across all of the Engineering organization. Assuming a 15% promotion target, then for every 100 engineers in any org across platform, core, growth, security, etc, they each get “15 promos”. Joe & the Juice was historically a platform heavy organization, but the shift in strategy towards multi-product has now seen the other areas grow faster.
-
-**Operational excellence isn’t something that is reflected in the CRs.**
-
-Based off the feedback we’ve received, we’ve actually changed this. Long term sustainability and reduction in KTLO and oncall toil are some of the examples that have been added into the engineering career framework and “[What is Impact](what_is_impact.html)” pages.
-
-**Virtual first isn’t reflected in our CRs.**
-
-The Culture section has since been updated to incorporate collaboration in a Virtual First environment.
-
-**It seems the most important lever for evaluations is project impact, and the rest of the CRs are minor check boxes.**
-
-One of the more important levers during evaluations is impact, which is why we have the dedicated page “[What is Impact](what_is_impact.html)” focused on it. However, impact is not just tied to your project or the Results CR. Impact is viewed through the lense across _all_ of the CRs, from strategy and direction setting, mentorship and talent development, communication and collaboration improvements especially in Virtual First, and more.

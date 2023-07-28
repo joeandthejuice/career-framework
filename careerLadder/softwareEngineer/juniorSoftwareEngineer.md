@@ -24,9 +24,9 @@ Core Responsibilities
 
 **Impact**
 
-*   I work with my manager to prioritize tasks that add the most value and deliver high-quality results for my customer
-*   I understand and effectively participate in the core processes of my team (planning, on-call rotations, bug triage, metrics review, etc)
-*   With guidance from my manager, and Tech lead, I deliver high-quality work on time that adds the most value for Joe & the Juice 
+*   I work with my manager to prioritize tasks that add the most value and deliver high-quality results
+*   I understand and effectively participate in the core processes of my team (planning, refinement, on-call rotations, bug triage, metrics review, etc)
+*   With guidance from my manager, Tech lead etc, I deliver high-quality work on time that adds the most value for Joe & the Juice 
 
 **Ownership**
 
@@ -55,6 +55,7 @@ Core Responsibilities
 
 *   I'm open to and act upon feedback from my manager and peers
 *   I'm gaining self-awareness about my strengths and areas for development
+*   Im curious about new areas for me to grow in and I seek out opportunities to learn
 *   I drive discussions with my manager about aspirational goals and seek out opportunities to learn and grow.
 
 **Team Development**
