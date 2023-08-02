@@ -5,7 +5,7 @@ M3 Engineering Manager
 
 **Scope** _Area of ownership and level of autonomy / ambiguity_
 
-*   I lead the activities of my team, with guidance from my manager, towards execution on well-defined projects in support of quarterly goals.
+*   I lead the activities of my team, with guidance from my manager, towards execution on well-defined projects.
 
 **Collaborative Reach** _Organizational reach and extent of influence_
 
@@ -78,7 +78,7 @@ M3 Engineering Manager
 *   I proactively work on self development knowing my strengths, and seeking new feedback
 *   I drive discussions with my manager about aspirational goals and seek out opportunities to learn, and grow
 *   I connect with others with empathy and understanding
-*   I invest time and seek out opportunities to learn and grow into a better manager and leader (e.g., PGP, Joe & the Juice-offered training, leveraging perks allowance etc.)
+*   I invest time and seek out opportunities to learn and grow into a better manager and leader (e.g., mentoring, Joe & the Juice-offered training, leveraging perks allowance etc.)
 
 **Team Development**
 
