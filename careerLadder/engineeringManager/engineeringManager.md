@@ -46,7 +46,7 @@ M3 Engineering Manager
 *   I set team priorities, goals, and expectations at the right altitude and hold my team accountable for progress against them
 *   I run efficient processes and operational cadences, leveraging appropriate asynchronous and synchronous methods, to get to the right outcomes
 *   I build healthy partnerships with stakeholders and teams with whom my team has long-lived relationships
-*   I am learning about how to best support my team in maintaining their well-being and respect work/life boundaries in line with Joe & the Juice’s virtual work practices
+*   I am learning about how to best support my team in maintaining their well-being and respect work/life boundaries.
 
 🌟 Direction
 ------------
@@ -113,8 +113,7 @@ M3 Engineering Manager
 *   I listen to different perspectives and I remove biases from my words and actions
 *   I help foster effective communication across my team and promote inclusive meeting culture
 *   I create an inclusive environment for my team where it’s safe to speak up
-*   I practice the Joe & the Juice Diversity Commitments on a regular basis
-*   I champion good Virtual First practices that help my team collaborate effectively
+*   I champion practices that help my team collaborate effectively
 *   When I become aware of any lapse in my team’s culture, I communicate and follow through on plans to correct and prevent recurrence of the lapse
 *   I am aware of my public presence and actions and their influence on the people around me and Joe & the Juice’s culture
 *   I help shape the Joe & the Juice engineering culture through my involvement with activities outside of my team
