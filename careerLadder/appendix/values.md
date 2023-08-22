@@ -13,7 +13,7 @@ We take responsibility for our work, from start to finish. When we get stuck, we
 ✨ We Keep It Simple
 ----------------
 
-Our organization is impatient. They want things yesterday. Thats fair. So we focus on whats important. We keep it simple. We dont overcomplicate. We dont overthink. We dont overplan. We dont overpromise. We dont overengineer. We dont overwork.
+Our organization is impatient. They want things yesterday. Thats fair. So we focus on whats important. We keep it simple. We dont overcomplicate. We dont overthink. We dont overplan. We dont overpromise. We dont overengineer. We dont overwork. We focus on the essential but we never compromise on quality!
 
 ❤️ We Make Work Human
 ------------------

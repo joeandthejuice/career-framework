@@ -147,5 +147,7 @@ M3 Engineering Manager
 *   I engage in listening sessions (All Hands, Quarterly Business Updates, etc.) to increase my learning and guide my work/priorities
 *   I have a working knowledge of Joe & the Juice’s org/team structure and how teams work together across Joe & the Juice, and able to independently work with partner engineering teams to unblock code reviews, and engineering designs
 
-Further reading
-https://aws.amazon.com/blogs/startups/what-is-an-engineering-manager/
+
+📕 Further reading
+---------------
+[What is an engineering manager](https://aws.amazon.com/blogs/startups/what-is-an-engineering-manager/)
