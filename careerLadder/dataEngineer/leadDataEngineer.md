@@ -80,7 +80,7 @@ Core Responsibilities
 
 *   I proactively ask for feedback from my manager, team, and cross-functional stakeholders. I know my strengths, and identify ways to take actions on my development areas
 *   I have self-awareness and connect with others with empathy
-*   I drive discussions with my manager about aspirational goals and seek out opportunities to learn and grow (e.g., PGP, JOE & THE JUICE-offered training, leveraging perks allowance etc.)
+*   I drive discussions with my manager about aspirational goals and seek out opportunities to learn and grow (e.g., PGP, JOE & THE JUICE offered training, leveraging perks allowance etc.)
 
 **Team Development**
 
@@ -95,7 +95,7 @@ Core Responsibilities
 
 **Collaboration**
 
-*   I promote and role model [JOE & THE JUICE core values](JOE & THE JUICE_values.html), leading by example
+*   I promote and role model [the Joe Manifest](https://assets.website-files.com/5faab59958d8a0c5566dbb92/60098d67db24724c88361ab8_ManifestLegacy-23.07.18.pdf)
 *   I build relationships and drive coordination across teams & disciplines, helping get to positive outcomes
 *   I proactively communicate and coordinate my team’s requirements with other groups and teams in engineering
 *   I am effective at working with cross-functional stakeholders to identify technical blindspots and clarify ambiguity in their ideas.
@@ -107,7 +107,6 @@ Core Responsibilities
 *   Working with my manager, I leverage the unique strengths & skills of the members of my team, and help identify talent gaps required for team success
 *   I enable others to bring their authentic selves at work and contribute to building community at JOE & THE JUICE
 *   I ensure diverse perspectives are included, leveraging inclusive meeting practices
-*   I practice the JOE & THE JUICE Diversity Commitments on a regular basis
 *   I champion good virtual first practices that help my team collaborate effectively
 *   I help shape the JOE & THE JUICE engineering culture through my involvement with activities outside of my team (e.g. presenting tech talks, participating in Eng RFCs, creating interview questions, planning hackweek)
 
@@ -154,5 +153,5 @@ Core Responsibilities
 
 **Business Acumen**
 
-*   I engage in listening sessions (All Hands, Quarterly Business Updates, etc.) to increase my learning and guide my work/priorities
+*   I engage in listening sessions (department introductions , mothly status Updates, etc.) to increase my learning and guide my work/priorities
 *   I have a working knowledge of JOE & THE JUICE’s org/team structure and how teams work together across JOE & THE JUICE, and am able to help my team effectively collaborate effectively with other teams across our org

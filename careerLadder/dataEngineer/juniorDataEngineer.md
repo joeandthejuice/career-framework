@@ -54,7 +54,7 @@ Core Responsibilities
 
 *   I'm open to and act upon feedback from my manager and peers
 *   I'm gaining self-awareness about my strengths and areas for development
-*   I drive discussions with my manager about aspirational goals and seek out opportunities to learn and grow (e.g. PGP, JOE & THE JUICE-offered training, leveraging perks allowance).
+*   I drive discussions with my manager about aspirational goals and seek out opportunities to learn and grow (e.g. PGP, JOE & THE JUICE offered training, leveraging perks allowance).
 
 **Team Development**
 
@@ -69,13 +69,12 @@ Core Responsibilities
 
 *   I can effectively collaborate and adopt necessary tools (e.g., pair programming) that adapts to virtual first and get work done
 *   I work with my manager to engage in productive conflict with thoughtful questioning and have the courage to state my point of view
-*   I promote and role model [JOE & THE JUICE core values](JOE & THE JUICE_values.html)
+*   I promote and role model [the Joe Manifest](https://assets.website-files.com/5faab59958d8a0c5566dbb92/60098d67db24724c88361ab8_ManifestLegacy-23.07.18.pdf)
 
 **Organizational Health**
 
 *   I listen to different perspectives and I remove biases from my words and actions
 *   I contribute to a positive sense of community on my team (e.g., engage in team activities, offsites, and new-hire onboarding)
-*   I practice the JOE & THE JUICE Diversity Commitments on a regular basis
 
 **Communication**
 
