@@ -24,7 +24,7 @@ Futhermore, we are growing. And with the increased headcount, we need to be able
 
 ### Do I need to progress?
 
-No, we dont expect everyone to progress. We have a lot of people who are happy with their current role and thats fine. But if you want to progress in Joe, we want to help you get there.
+No, we dont expect everyone to progress. Some people are happy with their current role and thats fine. But if you want to progress in Joe, we want to help you get there. Sometimes stale is fine, and sometimes we want more.
 
 ### How do I use this document?
 
