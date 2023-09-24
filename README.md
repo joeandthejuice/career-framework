@@ -19,8 +19,14 @@ We need to set the stage for what to expect from each other. What is a senior do
 
 ### Why should you spend your time on this?
 
-Well, you shouldnt. But you should at least familiarize yourself with the expectations for you current role and whats expected from you to progress.
+Well, you dont need to. But you should at least familiarize yourself with the expectations for you current role and whats expected from you to progress. 
+Your manager is responsible to making sure you understand what you role have and what the expectations to that role is.
+
 Futhermore, we are growing. And with the increased headcount, we need to be able to set expectations for new hires and help them understand what is expected from them as well.
+
+### Why have you spend your time on this? Shouldnt you be working?
+
+Sure, there is always work to be done. But as a manager, one of your main responsibilities is to take of the people you manage. And providing you with clear view of expectations will also give you better psychological safety. Thats at least the hopes for this down the line.
 
 ### Do I need to progress?
 
@@ -29,6 +35,7 @@ No, we dont expect everyone to progress. Some people are happy with their curren
 ### How do I use this document?
 
 This document is meant to be used as a guide for your 1:1s with your manager. You should use it to set goals and expectations for your current role. Again, its not a checklist, but a more holistic view of what the different roles can look like.
+You as a manager should use this document to help set expecations to the people you are managing. 
 
 ---
 
